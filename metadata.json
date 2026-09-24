@@ -1,0 +1,8 @@
+{
+  "name": "Make Distributors",
+  "description": "Where Brands Meet Growth Partners. Connect brands, manufacturers, wholesalers, suppliers, and distributors through one trusted B2B distribution marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
